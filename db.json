@@ -1,0 +1,28 @@
+{
+    "players": [
+        {"id": 1, "name": "Ronaldo", "price": 105, "image": "https://res.cloudinary.com/dajwrp86v/image/upload/v1614619252/football-mania/ronaldo_u5ck9v.jpg"},
+
+        {"id": 2, "name": "Bonucci", "price": 60, "image": "https://res.cloudinary.com/dajwrp86v/image/upload/v1614619259/football-mania/bonucci_ypbgnb.jpg"},
+
+        {"id": 3, "name": "Ramsy", "price": 80, "image": "https://res.cloudinary.com/dajwrp86v/image/upload/v1614619258/football-mania/ramsy_lmqegq.png"},
+
+        {"id": 4, "name": "Chiellini", "price": 50, "image": "https://res.cloudinary.com/dajwrp86v/image/upload/v1614619252/football-mania/chiellini_iyyqdr.jpg"},
+
+        {"id": 5, "name": "Szczesny", "price": 30, "image": "https://res.cloudinary.com/dajwrp86v/image/upload/v1614619252/football-mania/szczesny_moa5ce.jpg"},
+
+        {"id": 6, "name": "Morata", "price": 70, "image": "https://res.cloudinary.com/dajwrp86v/image/upload/v1614619251/football-mania/morata_fh9itq.jpg"},
+
+        {"id": 7, "name": "Dybala", "price": 55, "image": "https://res.cloudinary.com/dajwrp86v/image/upload/v1614619250/football-mania/dybala_mhbo9n.jpg"},
+
+        {"id": 8, "name": "Danilo", "price": 35, "image": "https://res.cloudinary.com/dajwrp86v/image/upload/v1614619248/football-mania/danilo_whcb9n.webp"},
+
+        {"id": 9, "name": "De_light", "price": 45, "image": "https://res.cloudinary.com/dajwrp86v/image/upload/v1614619248/football-mania/de_light_edg1eg.jpg"},
+
+        {"id": 10, "name": "Buffon", "price": 65, "image": "https://res.cloudinary.com/dajwrp86v/image/upload/v1614619248/football-mania/buffon_dngpsa.jpg"},
+
+        {"id": 11, "name": "Arthur", "price": 25, "image": "https://res.cloudinary.com/dajwrp86v/image/upload/v1614619247/football-mania/arthur_lc6w8h.jpg"},
+
+        {"id": 12, "name": "Bernardeshi", "price": 35, "image": "https://res.cloudinary.com/dajwrp86v/image/upload/v1614619248/football-mania/bernardeshi_xmcsdc.jpg"}
+        
+    ]
+}
